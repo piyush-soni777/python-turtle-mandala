@@ -180,7 +180,7 @@ def on_key(pattern_fn):
     def handler():
         menu_turtle.clear()
         pattern_fn()
-        # Re-show hint at bottom ...
+        # Re-show hint at bottom
         menu_turtle.penup()
         menu_turtle.color("gray")
         menu_turtle.goto(0, -360)
