@@ -152,7 +152,7 @@ MIT License — freely use, modify, and share! 🌍
 
 <div align="center">
 
-Made with ❤️ using Python `turtle` · `colorsys` · `math`
+Made by piyushSoni using Python `turtle` · `colorsys` · `math`
 
 ⭐ **Star this repo agar pasand aaya!** ⭐
 
