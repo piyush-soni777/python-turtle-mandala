@@ -87,7 +87,7 @@ def spiral_mandala(loops=6, sides=8):
         hue = (i / (loops * sides * 10))
         set_color_hsv(hue)
         t.forward(length)
-        t.right(angle + 1)          # slight extra turn creates spiral
+        t.right(angle + 1)          # slight extra turn creates spiral(piyush)
         length += step / (sides * 3)
 
     screen.update()
