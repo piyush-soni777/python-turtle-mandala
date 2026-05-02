@@ -118,7 +118,6 @@ def rose_mandala(petals=8, size=300):
 
     screen.update()
 
-
 # ── Pattern 5: Layered Circle Mandala ────────
 def layered_mandala(layers=12, base_radius=20):
     print("Drawing Pattern 5: Layered Circle Mandala...")
