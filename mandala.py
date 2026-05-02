@@ -187,7 +187,7 @@ def on_key(pattern_fn):
                           align="center", font=("Arial", 11, "normal"))
         screen.update()
     return handler
-
+ 
 for key, fn in patterns.items():
     screen.onkey(on_key(fn), key)
 
