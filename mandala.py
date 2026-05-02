@@ -73,7 +73,7 @@ def starburst_mandala(spokes=72, length=300):
     screen.update()
 
 
-# ── Pattern 3: Spiral Mandala ──────────────────
+# ── Pattern 3: Spiral Mandala ──────────────..────
 def spiral_mandala(loops=6, sides=8):
     print("Drawing Pattern 3: Spiral Mandala...")
     clear()
