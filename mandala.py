@@ -139,7 +139,7 @@ def layered_mandala(layers=12, base_radius=20):
 
     screen.update()
 
-
+made by piyushSoni
 # ── Menu ───────────────────────────────────
 def show_menu():
     """Draw clickable text menu on screen."""
