@@ -140,7 +140,7 @@ def layered_mandala(layers=12, base_radius=20):
     screen.update()
 
 
-# ── Menu ───────────────────────────────────────
+# ── Menu ───────────────────────────────────
 def show_menu():
     """Draw clickable text menu on screen."""
     menu = turtle.Turtle()
