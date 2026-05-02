@@ -51,7 +51,7 @@ def petal_mandala(petals=36, size=180):
     screen.update()
 
 
-# ── Pattern 2: Star Burst Mandala ──────────────
+# ──Pattern 2: Star Burst Mandala ──────────────
 def starburst_mandala(spokes=72, length=300):
     print("Drawing Pattern 2: Star Burst Mandala...")
     clear()
