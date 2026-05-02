@@ -8,7 +8,6 @@
 import turtle
 import colorsys
 
-
 # ── Setup ──────────────────────────────────────
 screen = turtle.Screen()
 screen.title("🌸 Mandala Pattern Generator")
