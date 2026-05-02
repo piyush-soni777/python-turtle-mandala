@@ -1,6 +1,6 @@
 # 🌸 Mandala Pattern Generator
 
-> *A colorful, interactive generative art project built with Python's built-in `turtle` module — no pip installs needed!*
+> *A colorful, interactive generative art project built with Python's built-in `turtle` module — no pip installs needed!* 
 
 ---
 
