@@ -33,7 +33,7 @@ def set_color_hsv(hue, saturation=0.9, value=1.0):
     r, g, b = colorsys.hsv_to_rgb(hue % 1.0, saturation, value)
     t.pencolor(r, g, b)
 
-
+# piyushSoni
 # ── Pattern 1: Classic Petal Mandala ───────────
 def petal_mandala(petals=36, size=180):
     print("Drawing Pattern 1: Petal Mandala...")
@@ -139,7 +139,7 @@ def layered_mandala(layers=12, base_radius=20):
 
     screen.update()
 
-made by piyushSoni
+# made by piyushSoni
 # ── Menu ───────────────────────────────────
 def show_menu():
     """Draw clickable text menu on screen."""
