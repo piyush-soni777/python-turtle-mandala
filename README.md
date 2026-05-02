@@ -139,7 +139,7 @@ Pull requests welcome hai! Naya pattern add karna chahte ho? Fork karo aur PR bh
 1. Fork the project
 2. Create your branch: `git checkout -b feature/new-pattern`
 3. Commit: `git commit -m 'Add new pattern'`
-4. Push: `git push origin feature/new-pattern`
+4. Push: `git push origin feature/new-pattern.`
 5. Open a Pull Request
 
 ---
