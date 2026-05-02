@@ -101,7 +101,7 @@ def rose_mandala(petals=8, size=300):
     steps = 1000
     import math
 
-    for k in range(2):                 # draw twice for inner + outer
+    for k in range(2):                # draw twice for inner + outer
         scale = size * (0.5 + 0.5 * k)
         for i in range(steps + 1):
             theta = math.radians(i * 360 / steps)
