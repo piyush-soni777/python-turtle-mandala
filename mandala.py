@@ -165,7 +165,7 @@ def show_menu():
     return menu
 # (piyush)
 
-# ── Key Bindings ────────────────────────
+# ── Key Bindings ────────────────
 patterns = {
     "1": petal_mandala,
     "2": starburst_mandala,
