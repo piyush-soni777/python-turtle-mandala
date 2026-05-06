@@ -200,4 +200,3 @@ screen.listen()
 on_key(petal_mandala)()
 
 turtle.mainloop()
-# repeating
