@@ -2,7 +2,7 @@
 ================================================
    Mandala Pattern Generator — Python Turtle
    Draws 5 different colorful mandala patterns
-   develope by  piyush-soni777 
+   develope by  piyush-soni777 ...............
 ================================================
 """
 
